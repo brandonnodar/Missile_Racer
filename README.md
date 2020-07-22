@@ -50,6 +50,9 @@
 
 ## Missile Garage
 <p>The garage allows you to change, upgrade, and customize your missile.</p>
+
+<img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_garage.gif" alt="Missile Racer" width="500">
+
 <p>Features of the garage include:</p>
 <ul>
   <li>30 missiles to choose from.</li>
