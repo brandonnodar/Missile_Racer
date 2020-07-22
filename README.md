@@ -13,9 +13,8 @@
   <a href="#online_leaderboards">Online Leaderboards</a> •
   <a href="#missile_garage">Missile Garage</a> •
   <a href="#game_modes">Game Modes</a>
+  <a href="#notes">Notes</a>
 </p>
-
-<p>Note: This repo only showcases
 
 ## About the Project
 <p>The purpose of the game is to be the first missile to hit the enemy on the other side</p>
@@ -71,4 +70,5 @@
   <li>Ninja Run: Fly through tight turns, avoid homing missiles, and dodge bullets to the finish line.</li>
 </ul
  
-
+## Notes
+<p>Not all scripts are included in this repo. I've selected a few key scripts to give an idea of the mechanics of the game and system.</p>
