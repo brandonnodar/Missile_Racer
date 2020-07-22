@@ -68,7 +68,7 @@
   <li>Hoops: Use your missile to hit the basketball into the hoop. Score the most points in 60 seconds.</li>
   <li>Pizza Run: Collect the pizza from the other side, and bring it back before time runs out.</li>
   <li>Ninja Run: Fly through tight turns, avoid homing missiles, and dodge bullets to the finish line.</li>
-</ul
+</ul>
  
 ## Notes
 <p>Not all scripts are included in this repo. I've selected a few key scripts to give an idea of the mechanics of the game and system.</p>
