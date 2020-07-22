@@ -86,6 +86,8 @@
   <li>Pizza Run: Collect the pizza from the other side, and bring it back before time runs out.</li>
   <li>Ninja Run: Fly through tight turns, avoid homing missiles, and dodge bullets to the finish line.</li>
 </ul>
+
+<img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_minigames.gif" alt="Missile Racer" width="500">
  
 ## Notes
 <p>Not all scripts are included in this repo. I've selected a few key scripts to give an idea of the mechanics of the game and system.</p>
