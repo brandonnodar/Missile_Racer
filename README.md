@@ -42,7 +42,8 @@
 <ul>
   <li>Uses Microsoft's Playfab API to send and recieve times.</li>
   <li>New track every 24 hours.</li>
-  <li>Integrated user logins to save times to the Playfab API.</li>
+  <li>Integrated user logins to save player data to the Playfab API.</li>
+  <li>Displays the top 5 racers, and their missile with customization options.</li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_ol.gif" alt="Missile Racer" width="500">
