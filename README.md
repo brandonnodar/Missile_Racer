@@ -8,11 +8,11 @@
 <p align="center">This project was made in Unity3D, written in C#. This is my biggest project to date, 1.5 years to complete.</p>
 
 <p align="center">
-  <a href="#about_the_project">About the Project</a> •
-  <a href="#ai_missile">AI Missile</a> •
-  <a href="#online_leaderboards">Online Leaderboards</a> •
-  <a href="#missile_garage">Missile Garage</a> •
-  <a href="#game_modes">Game Modes</a> •
+  <a href="#about-the-project">About the Project</a> •
+  <a href="#ai-missile">AI Missile</a> •
+  <a href="#online-leaderboards">Online Leaderboards</a> •
+  <a href="#missile-garage">Missile Garage</a> •
+  <a href="#game-modes">Game Modes</a> •
   <a href="#notes">Notes</a>
 </p>
 
