@@ -26,6 +26,8 @@
 
 <img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_ai.gif" alt="Missile Racer" width="500">
 
+<p>The yellow markers tell the missile where to look at. When the missile hits a green marker, it then proceeds to look at the next waypoint. This cycle's around the track allowing the missile to fly as many laps around the track as you'd like.</p>
+
 ## Online Leaderboards
 <p>Compete in online leaderboards for the fastest time on the track.</p>
 <ul>
