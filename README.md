@@ -8,10 +8,11 @@
 <p align="center">This project was made in Unity3D, written in C#. This is my biggest project to date, 1.5 years to complete.</p>
 
 <p align="center">
-  <a href="#about_the_project">Instructions</a> •
-  <a href="#ai_missile">Getting Started</a> •
-  <a href="#missile_garage">Online Users</a> •
-  <a href="#game_modes">Future Features</a>
+  <a href="#about_the_project">About the Project</a> •
+  <a href="#ai_missile">AI Missile</a> •
+  <a href="#online_leaderboards">Online Leaderboards</a> •
+  <a href="#missile_garage">Missile Garage</a> •
+  <a href="#game_modes">Game Modes</a>
 </p>
 
 <p>Note: This repo only showcases
