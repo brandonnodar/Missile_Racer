@@ -26,6 +26,14 @@
 
 <p>(Add gif of AI taking turn (in scene view within Unity, showing waypoints and triggers).
 
+## Online Leaderboards
+<p>Compete in online leaderboards for the fastest time on the track.</p>
+<ul>
+  <li>Uses Microsoft's Playfab API to send and recieve times.</li>
+  <li>New track every 24 hours.</li>
+  <li>Integrated user logins to save times to the Playfab API.</li>
+</ul>
+
 ## Missile Garage
 <p>The garage allows you to change, upgrade, and customize your missile.</p>
 <p>Features of the garage include:</p>
@@ -39,3 +47,27 @@
 <p>Each missile saves it's state of selected upgrade, body color, thruster, and explosion settings.</p>
 
 ## Game Modes
+<p>There are a variety of game modes, and mini games you can play.</p>
+<ul>
+  <li>Race: Compete against an AI, first to hit the enemy wins.</li>
+  <li>Time Trials: Beat the time. Taking too long self destructs your missile.</li>
+  <li>Defender: Hit your opponent's missile with your missile before your opponent hits the enemy.</li>
+  <li>Capture The Flag: Capture more flags than your opponent.</li>
+  <li>Slalom: Fly between the gates in a certain amount of time.</li>
+</ul>
+
+<p>There are also different ways to play them:</p>
+<ul>
+  <li>Career: Play through 5 countries, racing on all 30 tracks.</li>
+  <li>Tournament: Race on 5 random tracks, with only 3 chances to beat each one.</li>
+  <li>Olympia: </li>
+</ul>
+
+<p>There are also mini games!</p>
+<ul>
+  <li>Hoops: Use your missile to hit the basketball into the hoop. Score the most points in 60 seconds.</li>
+  <li>Pizza Run: Collect the pizza from the other side, and bring it back before time runs out.</li>
+  <li>Ninja Run: Fly through tight turns, avoid homing missiles, and dodge bullets to the finish line.</li>
+</ul
+ 
+
