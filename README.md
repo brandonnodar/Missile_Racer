@@ -12,7 +12,7 @@
   <a href="#ai_missile">AI Missile</a> •
   <a href="#online_leaderboards">Online Leaderboards</a> •
   <a href="#missile_garage">Missile Garage</a> •
-  <a href="#game_modes">Game Modes</a>
+  <a href="#game_modes">Game Modes</a> •
   <a href="#notes">Notes</a>
 </p>
 
