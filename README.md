@@ -17,9 +17,18 @@
 </p>
 
 ## About the Project
-<p>The purpose of the game is to be the first missile to hit the enemy on the other side</p>
+<p>The purpose of the game is to be the first missile to hit the enemy on the other side.</p>
 
 <img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_enemyhit.gif" alt="Missile Racer" width="500">
+
+<p>Includes:</p>
+<ul>
+  <li>30 tracks across 5 countries.</li>
+  <li>30 different missile bodies.</li>
+  <li>Online Leaderboards</li>
+  <li>Garage for changing, upgrading, and customizing your missile.</li>
+  <li>Various game modes, game types, and mini games.</li>
+</ul>
 
 ## AI Missile
 <p>The AI has been programmed to follow a set of waypoints. The waypoints adjust based on the AI's missile performance (how fast it can go), and the difficulty (how closely the AI takes the turns).</p>
@@ -35,6 +44,8 @@
   <li>New track every 24 hours.</li>
   <li>Integrated user logins to save times to the Playfab API.</li>
 </ul>
+
+<img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_ol.gif" alt="Missile Racer" width="500">
 
 ## Missile Garage
 <p>The garage allows you to change, upgrade, and customize your missile.</p>
