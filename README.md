@@ -60,7 +60,7 @@
 <p>Each missile saves it's state of selected upgrade, body color, thruster, and explosion settings.</p>
 
 ## Game Modes
-<p>There are a variety of game modes, and mini games you can play.</p>
+<p>There are a variety of game modes, game types, and mini games you can play.</p>
 <ul>
   <li>Race: Compete against an AI, first to hit the enemy wins.</li>
   <li>Time Trials: Beat the time. Taking too long self destructs your missile.</li>
@@ -69,14 +69,14 @@
   <li>Slalom: Fly between the gates in a certain amount of time.</li>
 </ul>
 
-<p>There are also different ways to play them:</p>
+<p>There are also different game types:</p>
 <ul>
   <li>Career: Play through 5 countries, racing on all 30 tracks.</li>
   <li>Tournament: Race on 5 random tracks, with only 3 chances to beat each one.</li>
   <li>Olympia: </li>
 </ul>
 
-<p>There are also mini games!</p>
+<p>And mini games!</p>
 <ul>
   <li>Hoops: Use your missile to hit the basketball into the hoop. Score the most points in 60 seconds.</li>
   <li>Pizza Run: Collect the pizza from the other side, and bring it back before time runs out.</li>
