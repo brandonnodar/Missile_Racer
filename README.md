@@ -19,12 +19,12 @@
 ## About the Project
 <p>The purpose of the game is to be the first missile to hit the enemy on the other side</p>
 
-  <img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_enemyhit.gif" alt="Missile Racer" width="500">
+<img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_enemyhit.gif" alt="Missile Racer" width="500">
 
 ## AI Missile
 <p>The AI has been programmed to follow a set of waypoints. The waypoints adjust based on the AI's missile performance (how fast it can go), and the difficulty (how closely the AI takes the turns).</p>
 
-<p>(Add gif of AI taking turn (in scene view within Unity, showing waypoints and triggers).
+<img src="https://raw.githubusercontent.com/brandonnodar/Missile_Racer/master/images/mr_ai.gif" alt="Missile Racer" width="500">
 
 ## Online Leaderboards
 <p>Compete in online leaderboards for the fastest time on the track.</p>
